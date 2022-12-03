@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-      <p> Hello Bro</p>
+      <p> Hello Bro - depuis Boiugres</p>
       </main>
 
       <footer className={styles.footer}>
